@@ -24,8 +24,7 @@ md BASIC
 md PASCAL
 md FORTRAN
 
-![EJERCICIO1-Sistema](https://user-images.githubusercontent.com/91737963/159564364-d1dc6d31-44fb-4b74-b16c-3a427a76c106.png)
-
+![EJERCICIO1-SISTEMAS](https://user-images.githubusercontent.com/91737963/159564882-f75b10b7-1163-46a4-b6e6-279cf5691dce.png)
 
 ###Ejercicio 1.2.
 
