@@ -28,7 +28,9 @@ md FORTRAN
 
 ###Ejercicio 1.2.
 
-cd '/home/ciber/D:/TABLAS'
+cd '/home/ciber/D:/APLI/EXCEL/TABLAS'
+
+![EJERCICIO2-SISTEMAS](https://user-images.githubusercontent.com/91737963/159565760-b40c99b6-27ad-4704-b811-453171ffc7c8.png)
 
 ###Ejercicio 1.3.
 
