@@ -62,6 +62,12 @@ md '/home/ciber/D:/VARIOS/AGENDA'
 ![EJERCICIO9-SISTEMAS](https://user-images.githubusercontent.com/91737963/159691928-4de92f18-2bcd-496b-aa0d-1d662fc1c859.png)
 
 ###Ejercicio 1.10.
+![EJERCICIO10-SISTEMAS](https://user-images.githubusercontent.com/91737963/159806621-c19daa22-6823-41ec-918b-a1685b7e7e90.png)
 
 ###Ejercicio 1.11.
+
+![EJERCICIO11-SISTEMAS](https://user-images.githubusercontent.com/91737963/159806639-ce1387ed-5edf-4844-b740-a63837fdc25d.png)
+
 ###Ejercicio 1.12.
+![EJERCICIO12-SISTEMAS](https://user-images.githubusercontent.com/91737963/159806659-263d4bd9-3246-40de-b452-dab478f999cf.png)
+
