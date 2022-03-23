@@ -34,12 +34,14 @@ cd '/home/ciber/D:/APLI/EXCEL/TABLAS'
 
 ###Ejercicio 1.3.
 
-cd 
+cd /
+![EJERCICIO3-SISTEMAS](https://user-images.githubusercontent.com/91737963/159683719-1540445d-7897-4a90-b80d-4509ca7a52e1.png)
 
 ###Ejercicio 1.4.
 
-cd '/home/ciber/PROG'
-tree
+dir '/home/ciber/D:/PROG'
+![EJERCICIO4-SISTEMAS](https://user-images.githubusercontent.com/91737963/159684689-743649db-4db8-46ba-8be1-371b3ad6eeac.png)
+
 ###Ejercicio 1.5.
 cd '/home/ciber/D:/PROG/PASCAL'
 
