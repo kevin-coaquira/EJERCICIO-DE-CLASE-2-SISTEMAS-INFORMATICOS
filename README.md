@@ -144,6 +144,6 @@ Esta parte no sé puede hacer porque se elimino en el anterior parte TECINFO don
 ![EJERCICIO4 8](https://user-images.githubusercontent.com/91737963/159960634-550669cd-bfb3-4b17-82cb-917001628274.png)
 
 ### Ejercicio 4.9
-No hacerlo
+No hacerlo, actividad mal
 ### Ejercicio 4.10
-NO hacerlo
+NO hacerlo, actividad mal
