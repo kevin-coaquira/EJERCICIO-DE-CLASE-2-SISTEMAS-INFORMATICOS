@@ -1,6 +1,6 @@
 # EJERCICIO-DE-CLASE-2-SISTEMAS-INFORMATICOS
 
-##Ejercicio 1
+## Ejercicio 1
 ###Ejercicio 1.1.
 cd '/home/ciber'
 md D:
