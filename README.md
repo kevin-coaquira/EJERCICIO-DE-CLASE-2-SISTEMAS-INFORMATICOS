@@ -141,8 +141,9 @@
 ### Ejercicio 4.7
 Esta parte no sé puede hacer porque se elimino en el anterior parte TECINFO donde tenia los archivos HARD.TXT y SOFT.TXT
 ### Ejercicio 4.8
+![EJERCICIO4 8](https://user-images.githubusercontent.com/91737963/159960634-550669cd-bfb3-4b17-82cb-917001628274.png)
 
 ### Ejercicio 4.9
-No se hace, mal redactado esta
+No hacerlo
 ### Ejercicio 4.10
-No se hace, mal redactado esta
+NO hacerlo
