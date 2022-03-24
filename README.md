@@ -136,9 +136,10 @@
 ![EJERCICIO4 5](https://user-images.githubusercontent.com/91737963/159951722-dda529b9-6cf3-495a-8732-0765ce6c7758.png)
 
 ### Ejercicio 4.6
+![EJERCICIO4 6](https://user-images.githubusercontent.com/91737963/159953221-542f1061-bfa1-47ef-b287-ab19d5b2e762.png)
 
 ### Ejercicio 4.7
-Se me complica la cosa------------------------------------
+Esta parte no sé puede hacer porque se elimino en el anterior parte TECINFO donde tenia los archivos HARD.TXT y SOFT.TXT
 ### Ejercicio 4.8
 
 ### Ejercicio 4.9
