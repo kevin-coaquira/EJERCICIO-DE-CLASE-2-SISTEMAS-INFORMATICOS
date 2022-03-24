@@ -149,6 +149,18 @@ me falta ----------------------------------------------------------
 ![EJERCICIO3 10](https://user-images.githubusercontent.com/91737963/159924328-22e47cf9-70e3-497d-ae28-63ac492d9365.png)
 
 ##EJERCICIO 4
-##Ejercicio 4.1.
+###Ejercicio 4.1.
 
 ![EJERCICIO4 1](https://user-images.githubusercontent.com/91737963/159924633-b2009042-7bbf-4c78-915e-c466c7dfffa6.png)
+
+###Ejercicio 4.2.
+
+![EJERCICIO4 2](https://user-images.githubusercontent.com/91737963/159925276-62585b8b-878e-4658-a2bb-c80b70b1c142.png)
+
+###Ejercicio 4.3.
+
+![EJERCICIO4 3](https://user-images.githubusercontent.com/91737963/159925592-562e7d16-cbb4-4ac2-8331-cc68e23d9403.png)
+
+###Ejercicio 4.4.
+![EJERCICIO4 4](https://user-images.githubusercontent.com/91737963/159926084-99abf80e-bdea-485d-b542-acc1f9863ed1.png)
+
