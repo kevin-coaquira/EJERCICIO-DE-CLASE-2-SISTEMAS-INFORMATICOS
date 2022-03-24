@@ -71,5 +71,41 @@ md '/home/ciber/D:/VARIOS/AGENDA'
 ![EJERCICIO12-SISTEMAS](https://user-images.githubusercontent.com/91737963/159806659-263d4bd9-3246-40de-b452-dab478f999cf.png)
 
 ##EJERCICIO 2
-###Ejercicio 2.1.
-![EJERCICIO2 1](https://user-images.githubusercontent.com/91737963/159807552-48a4aed8-e1ef-4874-a5de-9283325e9e94.png)
+###Ejercicio 2.1.![EJERCICIO2 2](https://user-images.githubusercontent.com/91737963/159908502-e1e73cf8-37e5-464f-abd9-bf48d4acf942.png)
+
+![EJERCICIO2 1 1](https://user-images.githubusercontent.com/91737963/159908518-e8ebc58b-7a47-4a94-9b96-4cc7e9b2d67d.png)
+
+###Ejercicio 2.2.
+![EJERCICIO2 2 1](https://user-images.githubusercontent.com/91737963/159909115-c3074255-25ec-4bcf-9f7a-f043db53f39a.png)
+
+###Ejercicio 2.3.
+![EJERCICIO2 3](https://user-images.githubusercontent.com/91737963/159910049-37b0dab7-9be2-4ed0-a4d3-4801884cfb4e.png)
+
+###Ejercicio 2.4.
+
+![EJERCICIO2 4](https://user-images.githubusercontent.com/91737963/159910438-95050b45-80b7-4b60-aabe-20f0a500ce8b.png)
+
+![EJERCICIO4 1 1](https://user-images.githubusercontent.com/91737963/159910542-6d4a0fae-d5b2-43a0-99a9-98d330e6f709.png)
+
+###Ejercicio 2.5.
+![EJERCICIO2 5](https://user-images.githubusercontent.com/91737963/159911378-efb3e1cc-6c1c-4df7-bcea-1e1d66c86b2e.png)
+
+###Ejercicio 2.6.
+![EJERCICIO2 6](https://user-images.githubusercontent.com/91737963/159911788-318190fd-2047-4249-a0a9-e308ba485135.png)
+
+###Ejercicio 2.7.
+![EJERCICIO 2 7](https://user-images.githubusercontent.com/91737963/159912208-9766ac66-6e64-42ef-94fe-697cefdae4eb.png)
+
+###Ejercicio 2.8.
+
+![EJERCICIO 2 8](https://user-images.githubusercontent.com/91737963/159912578-e39bd855-f4f7-4a49-b111-634fa2ac8f72.png)
+
+![EJERCICIO 2 8 1](https://user-images.githubusercontent.com/91737963/159912779-0a7193f9-6fb8-4c87-a8f7-b8c1d1fffbba.png)
+
+###Ejercicio 2.9.
+
+![EJERCICIO 2 9](https://user-images.githubusercontent.com/91737963/159913172-33d497b3-7777-4c48-b753-7c919fe66398.png)
+
+###Ejercicio 2.10.
+
+![EJERCICIO2 10](https://user-images.githubusercontent.com/91737963/159914175-cb4dcff8-5f36-4beb-92ee-4c61fab631bf.png)
