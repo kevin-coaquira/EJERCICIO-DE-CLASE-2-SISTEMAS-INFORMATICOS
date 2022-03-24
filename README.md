@@ -164,3 +164,15 @@ me falta ----------------------------------------------------------
 ###Ejercicio 4.4.
 ![EJERCICIO4 4](https://user-images.githubusercontent.com/91737963/159926084-99abf80e-bdea-485d-b542-acc1f9863ed1.png)
 
+###Ejercicio 4.5
+
+###Ejercicio 4.6
+
+###Ejercicio 4.7
+
+###Ejercicio 4.8
+
+###Ejercicio 4.9
+No se hace, mal redactado esta
+###Ejercicio 4.10
+No se hace, mal redactado esta
