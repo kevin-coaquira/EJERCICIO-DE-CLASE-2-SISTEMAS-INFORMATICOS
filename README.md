@@ -109,3 +109,46 @@ md '/home/ciber/D:/VARIOS/AGENDA'
 ###Ejercicio 2.10.
 
 ![EJERCICIO2 10](https://user-images.githubusercontent.com/91737963/159914175-cb4dcff8-5f36-4beb-92ee-4c61fab631bf.png)
+
+##EJERCICIO 3
+###EJERCICIO 3.1.
+![EJERCICIO3 1](https://user-images.githubusercontent.com/91737963/159914727-94607bfe-b6d5-4a7c-8f62-ae33eade0daa.png)
+
+###Ejercicio 3.2.
+
+![EJERCICIO3 2](https://user-images.githubusercontent.com/91737963/159915227-75a1136c-2f52-44ff-ba82-05abb4dc94ba.png)
+
+###Ejercicio 3.3.
+![EJERCICIO3 3](https://user-images.githubusercontent.com/91737963/159915737-0f182147-81e9-4a8b-b80e-86b8c8633a84.png)
+
+###Ejercicio 3.4.
+![EJERCICIO3 4](https://user-images.githubusercontent.com/91737963/159916330-639ab051-f4ac-4b24-8de6-e207a3b241e8.png)
+
+![EJERCICIO 3 4 1](https://user-images.githubusercontent.com/91737963/159916334-1b8aa68f-0c81-4bd4-86cc-7405a3be146f.png)
+
+###Ejercicio 3.5.
+
+![EJERCICIO3 5](https://user-images.githubusercontent.com/91737963/159916777-47586e9e-6aaf-41cc-b2c0-ae554cef19e0.png)
+
+![EJERCICIO 3 5 1](https://user-images.githubusercontent.com/91737963/159916800-0d99f0cc-8c9d-4614-85de-6212e325fcca.png)
+
+###Ejercicio 3.6.
+
+![EJERCICIO3 6](https://user-images.githubusercontent.com/91737963/159917167-35cbdf53-9925-443b-9e18-ccaa3e0b05f7.png)
+
+###Ejercicio 3.7.
+
+![EJERCICIO3 7](https://user-images.githubusercontent.com/91737963/159918606-37ef95a8-f96b-46ba-bc9f-c7e9c8940617.png)
+
+###Ejercicio 3.8.
+me falta ----------------------------------------------------------
+###Ejercicio 3.9.
+![EJERCICIO3 9](https://user-images.githubusercontent.com/91737963/159923973-93ff41a1-1912-4e9c-9583-aaba8504a7f5.png)
+
+###Ejercicio 3.10.
+![EJERCICIO3 10](https://user-images.githubusercontent.com/91737963/159924328-22e47cf9-70e3-497d-ae28-63ac492d9365.png)
+
+##EJERCICIO 4
+##Ejercicio 4.1.
+
+![EJERCICIO4 1](https://user-images.githubusercontent.com/91737963/159924633-b2009042-7bbf-4c78-915e-c466c7dfffa6.png)
