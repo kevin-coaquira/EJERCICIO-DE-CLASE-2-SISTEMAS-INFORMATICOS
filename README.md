@@ -20,8 +20,6 @@
 ![EJERCICIO6-SISTEMAS](https://user-images.githubusercontent.com/91737963/159688875-1a23a762-c96b-4d0d-9b4f-1f9f621fe33e.png)
 
 ### Ejercicio 1.7.
-cd '/home/ciber/D:/APLI/WORD/PRACT'
-dir '/home/ciber/D:/APLI/EXCEL'
 ![EJERCICIO7-SISTEMAS](https://user-images.githubusercontent.com/91737963/159690011-36cb3f2a-0fc8-4e2d-bb9c-1fb76d971771.png)
 
 ### Ejercicio 1.8.
