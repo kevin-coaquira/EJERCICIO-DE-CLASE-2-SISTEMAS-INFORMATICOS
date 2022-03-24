@@ -133,7 +133,8 @@
 ![EJERCICIO4 4](https://user-images.githubusercontent.com/91737963/159926084-99abf80e-bdea-485d-b542-acc1f9863ed1.png)
 
 ### Ejercicio 4.5
-Se me complica la cosa------------------------------------
+![EJERCICIO4 5](https://user-images.githubusercontent.com/91737963/159951722-dda529b9-6cf3-495a-8732-0765ce6c7758.png)
+
 ### Ejercicio 4.6
 
 ### Ejercicio 4.7
