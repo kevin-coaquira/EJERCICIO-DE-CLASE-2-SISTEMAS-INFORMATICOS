@@ -108,7 +108,8 @@
 ![EJERCICIO3 7](https://user-images.githubusercontent.com/91737963/159918606-37ef95a8-f96b-46ba-bc9f-c7e9c8940617.png)
 
 ### Ejercicio 3.8.
-me falta ----------------------------------------------------------
+![EJERCICIO3 8](https://user-images.githubusercontent.com/91737963/159950843-e7c7c4c4-4a6c-4a20-a73b-fd67a662dedf.png)
+
 ### Ejercicio 3.9.
 ![EJERCICIO3 9](https://user-images.githubusercontent.com/91737963/159923973-93ff41a1-1912-4e9c-9583-aaba8504a7f5.png)
 
